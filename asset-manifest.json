@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5f361e03.chunk.css",
-    "main.js": "/static/js/main.61b46b93.chunk.js",
-    "main.js.map": "/static/js/main.61b46b93.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a3350441.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a3350441.js.map",
-    "static/js/2.aa884c27.chunk.js": "/static/js/2.aa884c27.chunk.js",
-    "static/js/2.aa884c27.chunk.js.map": "/static/js/2.aa884c27.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4eccf7bb04e457220234c2c45830a1f5.js": "/precache-manifest.4eccf7bb04e457220234c2c45830a1f5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.aa884c27.chunk.js.LICENSE.txt": "/static/js/2.aa884c27.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+    "main.css": "/adamalvis/adamalvis.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/adamalvis/adamalvis.github.io/static/js/main.761aa622.chunk.js",
+    "main.js.map": "/adamalvis/adamalvis.github.io/static/js/main.761aa622.chunk.js.map",
+    "runtime-main.js": "/adamalvis/adamalvis.github.io/static/js/runtime-main.ca7a3090.js",
+    "runtime-main.js.map": "/adamalvis/adamalvis.github.io/static/js/runtime-main.ca7a3090.js.map",
+    "static/js/2.aa884c27.chunk.js": "/adamalvis/adamalvis.github.io/static/js/2.aa884c27.chunk.js",
+    "static/js/2.aa884c27.chunk.js.map": "/adamalvis/adamalvis.github.io/static/js/2.aa884c27.chunk.js.map",
+    "index.html": "/adamalvis/adamalvis.github.io/index.html",
+    "precache-manifest.4ebad802b22e13e36e5589a4f0baebc1.js": "/adamalvis/adamalvis.github.io/precache-manifest.4ebad802b22e13e36e5589a4f0baebc1.js",
+    "service-worker.js": "/adamalvis/adamalvis.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/adamalvis/adamalvis.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.aa884c27.chunk.js.LICENSE.txt": "/adamalvis/adamalvis.github.io/static/js/2.aa884c27.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/adamalvis/adamalvis.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a3350441.js",
+    "static/js/runtime-main.ca7a3090.js",
     "static/js/2.aa884c27.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.61b46b93.chunk.js"
+    "static/js/main.761aa622.chunk.js"
   ]
 }
