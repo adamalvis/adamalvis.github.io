@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/adamalvis/adamalvis.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/adamalvis/adamalvis.github.io/static/js/main.761aa622.chunk.js",
-    "main.js.map": "/adamalvis/adamalvis.github.io/static/js/main.761aa622.chunk.js.map",
-    "runtime-main.js": "/adamalvis/adamalvis.github.io/static/js/runtime-main.ca7a3090.js",
-    "runtime-main.js.map": "/adamalvis/adamalvis.github.io/static/js/runtime-main.ca7a3090.js.map",
-    "static/js/2.aa884c27.chunk.js": "/adamalvis/adamalvis.github.io/static/js/2.aa884c27.chunk.js",
-    "static/js/2.aa884c27.chunk.js.map": "/adamalvis/adamalvis.github.io/static/js/2.aa884c27.chunk.js.map",
-    "index.html": "/adamalvis/adamalvis.github.io/index.html",
-    "precache-manifest.4ebad802b22e13e36e5589a4f0baebc1.js": "/adamalvis/adamalvis.github.io/precache-manifest.4ebad802b22e13e36e5589a4f0baebc1.js",
-    "service-worker.js": "/adamalvis/adamalvis.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/adamalvis/adamalvis.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.aa884c27.chunk.js.LICENSE.txt": "/adamalvis/adamalvis.github.io/static/js/2.aa884c27.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/adamalvis/adamalvis.github.io/static/media/logo.5d5d9eef.svg"
+    "main.css": "/adamalvis.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/adamalvis.github.io/static/js/main.59183fa3.chunk.js",
+    "main.js.map": "/adamalvis.github.io/static/js/main.59183fa3.chunk.js.map",
+    "runtime-main.js": "/adamalvis.github.io/static/js/runtime-main.f83aa8e8.js",
+    "runtime-main.js.map": "/adamalvis.github.io/static/js/runtime-main.f83aa8e8.js.map",
+    "static/js/2.aa884c27.chunk.js": "/adamalvis.github.io/static/js/2.aa884c27.chunk.js",
+    "static/js/2.aa884c27.chunk.js.map": "/adamalvis.github.io/static/js/2.aa884c27.chunk.js.map",
+    "index.html": "/adamalvis.github.io/index.html",
+    "precache-manifest.04c57bdcdcc713fe89c11731cfb2c918.js": "/adamalvis.github.io/precache-manifest.04c57bdcdcc713fe89c11731cfb2c918.js",
+    "service-worker.js": "/adamalvis.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/adamalvis.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.aa884c27.chunk.js.LICENSE.txt": "/adamalvis.github.io/static/js/2.aa884c27.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/adamalvis.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca7a3090.js",
+    "static/js/runtime-main.f83aa8e8.js",
     "static/js/2.aa884c27.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.761aa622.chunk.js"
+    "static/js/main.59183fa3.chunk.js"
   ]
 }
